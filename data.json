@@ -1,8 +1,8 @@
 {
-  "updated_utc": "2026-05-22T18:19:59Z",
+  "updated_utc": "2026-05-23T11:13:57Z",
   "latest": {
     "date": "2026-05-22",
-    "vix": 16.61,
+    "vix": 16.7,
     "entropy": 37.1,
     "regime": "low",
     "active_bins": 2
@@ -1265,7 +1265,7 @@
     },
     {
       "date": "2026-05-22",
-      "vix": 16.61,
+      "vix": 16.7,
       "entropy": 37.1
     }
   ],
