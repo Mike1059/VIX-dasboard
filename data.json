@@ -1,52 +1,42 @@
 {
-  "updated_utc": "2026-07-18T04:34:14Z",
+  "updated_utc": "2026-07-21T04:53:14Z",
   "latest": {
-    "date": "2026-07-17",
-    "vix": 18.77,
-    "entropy": 65.4,
-    "regime": "elevated",
+    "date": "2026-07-20",
+    "vix": 18.65,
+    "entropy": 62.5,
+    "regime": "moderate",
     "active_bins": 4
   },
   "history": [
     {
-      "date": "2025-07-17",
-      "vix": 16.52,
-      "entropy": 0.0
-    },
-    {
-      "date": "2025-07-18",
-      "vix": 16.41,
-      "entropy": -0.0
-    },
-    {
       "date": "2025-07-21",
       "vix": 16.65,
-      "entropy": 38.7
+      "entropy": 0.0
     },
     {
       "date": "2025-07-22",
       "vix": 16.5,
-      "entropy": 35.5
+      "entropy": -0.0
     },
     {
       "date": "2025-07-23",
       "vix": 15.37,
-      "entropy": 31.4
+      "entropy": -0.0
     },
     {
       "date": "2025-07-24",
       "vix": 15.39,
-      "entropy": 37.6
+      "entropy": 35.5
     },
     {
       "date": "2025-07-25",
       "vix": 14.93,
-      "entropy": 35.5
+      "entropy": 31.4
     },
     {
       "date": "2025-07-28",
       "vix": 15.03,
-      "entropy": 38.1
+      "entropy": 37.6
     },
     {
       "date": "2025-07-29",
@@ -56,7 +46,7 @@
     {
       "date": "2025-07-30",
       "vix": 15.48,
-      "entropy": 38.3
+      "entropy": 38.1
     },
     {
       "date": "2025-07-31",
@@ -66,62 +56,62 @@
     {
       "date": "2025-08-01",
       "vix": 20.38,
-      "entropy": 52.2
+      "entropy": 53.9
     },
     {
       "date": "2025-08-04",
       "vix": 17.52,
-      "entropy": 63.8
+      "entropy": 66.6
     },
     {
       "date": "2025-08-05",
       "vix": 17.85,
-      "entropy": 62.5
+      "entropy": 64.9
     },
     {
       "date": "2025-08-06",
       "vix": 16.77,
-      "entropy": 61.6
+      "entropy": 63.8
     },
     {
       "date": "2025-08-07",
       "vix": 16.57,
-      "entropy": 60.5
+      "entropy": 62.5
     },
     {
       "date": "2025-08-08",
       "vix": 15.15,
-      "entropy": 59.2
+      "entropy": 60.9
     },
     {
       "date": "2025-08-11",
       "vix": 16.25,
-      "entropy": 58.8
+      "entropy": 60.5
     },
     {
       "date": "2025-08-12",
       "vix": 14.73,
-      "entropy": 57.8
+      "entropy": 59.2
     },
     {
       "date": "2025-08-13",
       "vix": 14.49,
-      "entropy": 56.7
+      "entropy": 57.9
     },
     {
       "date": "2025-08-14",
       "vix": 14.83,
-      "entropy": 56.5
+      "entropy": 57.8
     },
     {
       "date": "2025-08-15",
       "vix": 15.09,
-      "entropy": 56.2
+      "entropy": 57.4
     },
     {
       "date": "2025-08-18",
       "vix": 14.99,
-      "entropy": 56.2
+      "entropy": 56.5
     },
     {
       "date": "2025-08-19",
@@ -1272,14 +1262,19 @@
       "date": "2026-07-17",
       "vix": 18.77,
       "entropy": 65.4
+    },
+    {
+      "date": "2026-07-20",
+      "vix": 18.65,
+      "entropy": 62.5
     }
   ],
   "current_bin_distribution": {
     "<-4": 0,
     "-4..-2": 1,
-    "-2..0": 10,
+    "-2..0": 11,
     "0..+2": 6,
-    "+2..+4": 4,
+    "+2..+4": 3,
     ">+4": 0
   }
 }
