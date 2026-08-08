@@ -1,8 +1,8 @@
 {
-  "updated_utc": "2026-08-07T07:13:11Z",
+  "updated_utc": "2026-08-08T06:25:19Z",
   "latest": {
-    "date": "2026-08-06",
-    "vix": 15.15,
+    "date": "2026-08-07",
+    "vix": 14.9,
     "entropy": 57.8,
     "regime": "moderate",
     "active_bins": 4
@@ -1266,6 +1266,11 @@
     {
       "date": "2026-08-06",
       "vix": 15.15,
+      "entropy": 57.8
+    },
+    {
+      "date": "2026-08-07",
+      "vix": 14.9,
       "entropy": 57.8
     }
   ],
